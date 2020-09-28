@@ -1,4 +1,4 @@
-# Vue.github.io
+# Vue.ecommerce.io
 Vue eCommerce hobby project
 
 
